@@ -1,2 +1,2 @@
 # HarmoniX
-This is the HarmoniX music player project
+This is the public repo of the HarmoniX Music Player project.
